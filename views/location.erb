@@ -1,0 +1,11 @@
+<head>
+ <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+
+<h1 class="center"><%= name %>, What is your location?</h1>
+
+<form action = "location" method = "post">
+   <input type = "text" name = "user_location">
+   <input type = "text" name = "user_name" value = <%= name %> hidden>
+   <input type="submit">
+</form>

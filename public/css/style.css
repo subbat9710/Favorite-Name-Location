@@ -1,0 +1,26 @@
+.center {
+	text-align: center;
+}
+.blue {
+	color: red;
+}
+.bg_color {
+    background-color: grey;
+}
+form {
+	text-align: center;
+}
+
+.footer {
+	background-color: black;
+	position: fixed;
+	text-align: center;
+	bottom: 1000px;
+	width: 100px;
+}
+body {
+	background-color: blue;
+}
+.outside {
+	border-style: solid;
+}
