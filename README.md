@@ -1,1 +1,2 @@
 # Favorite-Name-Location
+In this project I tried to write the Name and location. Also I tried to design with new file called layout and style.css. This both files should be in views and public folders respectively.
